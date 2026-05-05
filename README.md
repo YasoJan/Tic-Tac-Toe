@@ -1,4 +1,4 @@
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 
 Tic-Tac-Toe is a "The Odin Project" assignment that involves getting a working game in the console using IIFEE factories rather than global coding. The only global code is the call to main() the entrypoint function. 
 
